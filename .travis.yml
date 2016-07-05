@@ -19,5 +19,8 @@ script:
   - stack build --fast
   - stack exec site build
 
-after_success:
-  - bash $TRAVIS_BUILD_DIR/scripts/deploy.sh
+deploy:
+  provider: script
+  script: scripts/deploy.sh
+  # on:
+  #   branch: dev
