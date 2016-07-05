@@ -3,7 +3,7 @@
 set -o errexit -o nounset
 
 # Don't deploy if this is not on master
-if [ "$TRAVIS_BRANCH" != "master" ]
+if [ "$TRAVIS_BRANCH" != "dev" ]
 then
   echo "This commit was against the $TRAVIS_BRANCH and not the master! No deploy!"
   exit 0
