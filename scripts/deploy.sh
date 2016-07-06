@@ -17,6 +17,8 @@ rev=$(git rev-parse --short HEAD)
 mkdir stage
 cd stage
 
+echo "reichertbrothers.com" >> CNAME
+
 # Git settings
 git init
 git config user.name "Cody Reichert"
