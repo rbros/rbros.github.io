@@ -33,5 +33,5 @@ git reset upstream/master
 cp -R $TRAVIS_BUILD_DIR/_site/* .
 
 git add -A .
-git commit -m "rebuild pages at ${rev}"
+git commit --allow-empty -m "rebuild pages at ${rev}"
 git push -q upstream HEAD:master
