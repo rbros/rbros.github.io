@@ -38,8 +38,6 @@ future for those willing to adopt Haskell in their business or organization.
 <a href="https://twitter.com/creichert07" class="twitter-follow-button" data-show-count="false">Follow @creichert07</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-[Open Source Report Card](http://osrc.dfm.io/creichert/)
-
 ## Cody Reichert - Director of Consulting Services
 
 [cody@reichertbrothers.com](mailto:cody@reichertbrothers.com)
@@ -55,4 +53,3 @@ future for those willing to adopt Haskell in their business or organization.
 
 <a href="https://twitter.com/CodyReichert" class="twitter-follow-button" data-show-count="false">Follow @CodyReichert</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-[Open Source Report Card](http://osrc.dfm.io/codyreichert/)
