@@ -2,22 +2,25 @@
 title: About
 ---
 
-Reichert Brothers was founded in 2013 as a Haskell consulting company.  Our
-goal is to support the widespread adoption of Haskell for commercial usage as
-well as advocating for open-source and independent use. We truly believe that
-the Haskell community is rich with talent and innovation that is unmatched in
-other widely used programming languages.
+Reichert Brothers was founded in 2013 as a Haskell consulting company.
+Our goal is to support the widespread adoption of Haskell for
+commercial usage as well as advocating for open-source and independent
+use. We truly believe that the Haskell community is rich with talent
+and innovation that is unmatched in other widely used programming
+languages.
 
-A cornerstone of our practice is in giving back to the Haskell community, which
-has openly shared a wealth of code and knowledge. Reichert Brothers are the
-founders and organizers of the [Houston Haskell Users
-Group](http://www.meetup.com/Houston-Haskell-Users-Group/). This is one of
-our mediums to bring the power of Haskell and its community to the masses.
-Would you like to give a talk at one of our meetups? Please [contact
-us](/contact.html) for more information.
+A cornerstone of our practice is in giving back to the Haskell
+community, which has openly shared a wealth of code and
+knowledge. Reichert Brothers are the founders and organizers of
+the
+[Houston Haskell Users Group](http://www.meetup.com/Houston-Haskell-Users-Group/). This
+is one of our mediums to bring the power of Haskell and its community
+to the masses.  Would you like to give a talk at one of our meetups?
+Please [contact us](/contact.html) for more information.
 
-We develop our internal tools and web content in Haskell and see a bright
-future for those willing to adopt Haskell in their business or organization.
+We develop our internal tools and web content in Haskell and see a
+bright future for those willing to adopt Haskell in their business or
+organization.
 
 ## Christopher Reichert - Director of Development
 
