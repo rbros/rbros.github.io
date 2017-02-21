@@ -1,8 +1,6 @@
 # reichertbrothers.com
 
-<a href="http://reichertbrothers.com">
-  <img src="https://assertible.com/tests/075b932c-f37d-407d-a600-5b96a879bf20/status?api_token=8b55a286830323effb" alt="Assertible Status Check"/>
-</a>
+[![Service status](https://assertible-test-2.us-west-2.elasticbeanstalk.com/apis/766d391a-dd3f-4259-8dec-330ce6f033b9/status?api_token=Nayjd0bJHVSFgVrh)](https://assertible-test-2.us-west-2.elasticbeanstalk.com/dashboard#/services/766d391a-dd3f-4259-8dec-330ce6f033b9)
 
 [Reichert Brothers](http://reichertbrothers.com) is a product company specializing in Web Applications written in Haskell.
 This is the source code of our public website: https://reichertbrothers.com.
