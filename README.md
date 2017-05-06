@@ -5,6 +5,6 @@ This is the source code of our public website: https://reichertbrothers.com.
 
 Web services we have authored:
 
-- [Assertible)(https://assertible.com)
-- [SimplyRETS)(https://simplyrets.com)
-- [CheckAFlip)(http://checkaflip.com)
+- [Assertible](https://assertible.com)
+- [SimplyRETS](https://simplyrets.com)
+- [CheckAFlip](http://checkaflip.com)
